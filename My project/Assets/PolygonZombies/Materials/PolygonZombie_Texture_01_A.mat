@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: PolygonZombie_Texture_01_A
   m_Shader: {fileID: 4800000, guid: a7331fc07349b124c8c15d545676f9ed, type: 3}
   m_ShaderKeywords: 
@@ -101,3 +102,4 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissiveColor: {r: 0.13235295, g: 0.13235295, b: 0.13235295, a: 0}
     - _Spec: {r: 1, g: 0.9852941, b: 0.99168354, a: 0}
+  m_BuildTextureStacks: []
